@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jokenpo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: antoniojs
+Implementation-Vendor-Id: br.com.alura
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/jokenpo
+Created-By: Maven Integration for Eclipse
+
